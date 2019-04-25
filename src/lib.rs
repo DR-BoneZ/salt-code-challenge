@@ -315,7 +315,7 @@ mod tests {
             "BTC",
             5,
             BigDecimal::from(8000),
-            std::u16::MAX as i32,
+            std::u16::MAX as i32 + 1,
         );
         println!("BTC: {}", f.0);
         // assert!(f.0 == BigDecimal::from_str("2.5")?);
