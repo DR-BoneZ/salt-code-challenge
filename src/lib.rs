@@ -1,3 +1,5 @@
+#![feature(duration_float)]
+
 #[macro_use]
 extern crate serde_derive;
 #[macro_use]
@@ -113,12 +115,52 @@ pub fn optimize_rate<'a>(
         .map(|p| p.1)
 }
 
-pub fn optimize_rate_multi<'a>(
+pub fn optimize_rate_multi(
     pairs: Vec<TradingPair>,
     base_asset: &str,
     quote_asset: &'static str,
     n: usize,
-    tp: std::sync::Arc<std::sync::Mutex<threadpool::ThreadPool>>,
+) -> Option<(BigDecimal, Vec<TradingPair>)> {
+    if n == 0 {
+        return None;
+    }
+    pairs
+        .clone()
+        .into_iter()
+        .filter(|p| p.base_asset == base_asset)
+        .filter_map(|p| {
+            let multi = optimize_rate_multi(pairs.clone(), &p.quote_asset, quote_asset, n - 1);
+            if p.quote_asset == quote_asset
+                && (multi.is_none() || p.rate < p.rate.clone() * multi.clone().unwrap().0)
+            {
+                Some((p.rate.clone(), vec![p]))
+            } else {
+                if let Some(mut multi) = multi {
+                    multi.1.push(p.clone());
+                    Some((p.rate.clone() * multi.0, multi.1))
+                } else {
+                    None
+                }
+            }
+        })
+        .fold(
+            None,
+            |best: Option<(BigDecimal, Vec<TradingPair>)>, (rate, vec)| {
+                if best.is_none() || rate < best.clone().unwrap().0 {
+                    Some((rate, vec))
+                } else {
+                    best
+                }
+            },
+        )
+}
+
+pub fn optimize_rate_multi_threaded(
+    pairs: Vec<TradingPair>,
+    base_asset: &str,
+    quote_asset: &'static str,
+    n: usize,
+    tp: &threadpool::ThreadPool,
 ) -> Option<(BigDecimal, Vec<TradingPair>)> {
     if n == 0 {
         return None;
@@ -131,11 +173,9 @@ pub fn optimize_rate_multi<'a>(
         .filter(|p| p.base_asset == base_asset)
         .map(|p| {
             let tx = tx.clone();
-            let tp1 = tp.clone();
-            let tp2 = tp.clone();
             let pairs = pairs.clone();
-            tp1.lock().unwrap().execute(move || {
-                let multi = optimize_rate_multi(pairs, &p.quote_asset, quote_asset, n - 1, tp2);
+            tp.execute(move || {
+                let multi = optimize_rate_multi(pairs, &p.quote_asset, quote_asset, n - 1);
                 if p.quote_asset == quote_asset
                     && (multi.is_none() || p.rate < p.rate.clone() * multi.clone().unwrap().0)
                 {
@@ -288,19 +328,36 @@ mod tests {
 
     #[test]
     fn test_optimize_rate_multi() -> Result<(), Error> {
-        let tp = std::sync::Arc::new(std::sync::Mutex::new(threadpool::ThreadPool::new(16)));
+        let tp = threadpool::ThreadPool::new(16);
         let pairs: Vec<TradingPair> =
             serde_json::from_reader(std::fs::File::open("testData.json")?)?;
-        assert!(optimize_rate_multi(pairs.clone(), "USD", "BTC", 0, tp.clone()).is_none());
+        assert!(optimize_rate_multi_threaded(pairs.clone(), "USD", "BTC", 0, &tp).is_none());
         assert!(
-            optimize_rate_multi(pairs.clone(), "USD", "BTC", 1, tp.clone())
+            optimize_rate_multi_threaded(pairs.clone(), "USD", "BTC", 1, &tp)
                 .unwrap()
                 .0
                 == BigDecimal::from_str("4000")?
         );
-        let f = optimize_rate_multi(pairs.clone(), "USD", "BTC", 3, tp.clone()).unwrap();
+        let f = optimize_rate_multi_threaded(pairs.clone(), "USD", "BTC", 3, &tp).unwrap();
         println!("{:?}", f);
         assert!(f.0 == BigDecimal::from_str("3000")?);
+
+        let inst = std::time::Instant::now();
+        optimize_rate_multi(pairs.clone(), "USD", "BTC", 3).unwrap();
+        println!(
+            "TIME SINGLE THREADED: {}s",
+            std::time::Instant::now()
+                .duration_since(inst)
+                .as_float_secs()
+        );
+        let inst = std::time::Instant::now();
+        optimize_rate_multi_threaded(pairs.clone(), "USD", "BTC", 3, &tp).unwrap();
+        println!(
+            "TIME MULTI THREADED: {}s",
+            std::time::Instant::now()
+                .duration_since(inst)
+                .as_float_secs()
+        );
 
         Ok(())
     }

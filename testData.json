@@ -33,5 +33,1937 @@
     "baseAsset": "LTC",
     "rate": "60",
     "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "4000",
+    "capacity": "9000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "USD",
+    "rate": "6000",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "LTC",
+    "baseAsset": "USD",
+    "rate": "50",
+    "capacity": "3000"
+  },
+  {
+    "exchange": "DogéDEx",
+    "quoteAsset": "BTC",
+    "baseAsset": "LTC",
+    "rate": "60",
+    "capacity": "90"
   }
 ]
